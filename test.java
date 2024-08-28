@@ -5,3 +5,4 @@ functional testing
 functional testing development
 Testing Master
 testing + deployment
+stage testing 
